@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.capgemini.test.AccountTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-14T04:55:50" hostname="din56001554" time="0.161">
+  <properties/>
+  <testcase name="whenTheAmountIsLessThan500ItShouldThrowException" classname="com.capgemini.test.AccountTest" time="0.15"/>
+  <testcase name="whenTheValidInfoIsPassedAccountObjectShouldBeCreatedSuccessfully" classname="com.capgemini.test.AccountTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
